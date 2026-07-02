@@ -1,4 +1,4 @@
-##                        Hi there 👋 I am Shiwani Sinha
+                             Hi there 👋 I am Shiwani Sinha
 
                      A passionate full stack Web Developer from India.
 <!--
