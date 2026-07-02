@@ -1,6 +1,6 @@
-## Hi there 👋 I am Shiwani Sinha
+##                        Hi there 👋 I am Shiwani Sinha
 
-A passionate full stack Web Developer from India.
+                     A passionate full stack Web Developer from India.
 <!--
 **shiwani77177/shiwani77177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
