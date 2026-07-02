@@ -1,17 +1,16 @@
-  ## Hi there 👋 I am Shiwani Sinha
+# 👋 Hi, I'm Shiwani Sinha
 
-                     A passionate full stack Web Developer from India.
-<!--
-**shiwani77177/shiwani77177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer and a student** who is passionate about building **real-world projects** and mastering **Data Structures & Algorithms**. I love combining practical application development with strong problem-solving foundations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I'm Up To
+* 🚀 **Building:** Full-stack applications to solve real-world problems.
+* 🧠 **Practicing:** LeetCode to sharpen my DSA skills.
+* 🌱 **Learning:** Spring Boot
+
+### 🛠️ Tech Stack & Skills
+* **Language:** Java
+* **Frontend:** HTML, CSS, React.js
+* **Backend & DB:** Spring Boot, SQL
+* **Core CS:** Data Structures, Algorithms, Object-Oriented Programming (OOP)
