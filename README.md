@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shiwani77177&label=Profile%20views&color=6c63ff&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/shiwanisinha77177"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/shiwani_sinha__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -111,7 +110,7 @@ fun_fact: I built a Harry Potter fan site called "Potter Verse" 🧙‍♀️⚡
 ## 🎯 2026 Goals
 
 - [ ] Build 3+ full-stack projects with **React + Spring Boot**
-- [ ] Solve 300+ DSA problems on **LeetCode**
+- [ ] Solve 200+ DSA problems on **LeetCode**
 - [ ] Contribute to my first **open-source** project
 - [ ] Deploy a project to production 🚀
 
@@ -121,7 +120,6 @@ fun_fact: I built a Harry Potter fan site called "Potter Verse" 🧙‍♀️⚡
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shiwanisinha77177"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/shiwani_sinha__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/shiwani77177"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
