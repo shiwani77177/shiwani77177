@@ -92,18 +92,13 @@ fun_fact: I built a Harry Potter fan site called "Potter Verse" 🧙‍♀️⚡
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiwani77177&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwani77177&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiwani77177&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shiwani77177&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
+
 
 ---
 
